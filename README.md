@@ -1,4 +1,13 @@
-# Hi, This is Anuj Bisht :wave:
+# Hi! 👋 
 
-# Connect With Me:
-![image]({https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white})
+## This is Anuj Bisht
+
+## Connect With Me:
+[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+
+
+
+
+
+
+[linkedin]: https://www.linkedin.com/in/anujbisht/
