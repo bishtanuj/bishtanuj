@@ -3,12 +3,12 @@
 ## This is Anuj Bisht
 
 ## Connect With Me:
-[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/anujbisht/]
+[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 
-![](https://komarev.com/ghpvc/?username = bishtanuj & color = blue)
-
-
+![](https://komarev.com/ghpvc/?username=bishtanuj&color=blue)
 
 
 
-<!--[linkedin]: https://www.linkedin.com/in/anujbisht/ -->
+
+
+[LinkedIn]: https://www.linkedin.com/in/anujbisht/
