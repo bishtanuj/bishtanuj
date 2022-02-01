@@ -14,9 +14,9 @@
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
-<img align="left" alt="Java" width="20px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
+<img align="left" alt="Java" width="18px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
-<img align="left" alt="css" width="20px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
+<img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
