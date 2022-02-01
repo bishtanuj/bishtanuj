@@ -3,10 +3,12 @@
 ## This is Anuj Bisht
 
 ### Connect With Me:
-[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
+[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+
 <br><br>
-![](https://komarev.com/ghpvc/?username=bishtanuj&color=blue)
+![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
 
 ### Languages Known:
 <img align="left" alt="C" width="46px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
@@ -17,3 +19,4 @@
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
 [Instagram]: https://www.instagram.com/bisht_anuj_/
+[Github]: https://github.com/bishtanuj/
