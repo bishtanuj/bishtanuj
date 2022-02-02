@@ -1,4 +1,4 @@
-# Hi! 👋 
+# Hi! <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 
 **I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**
 
@@ -14,7 +14,7 @@
 <br><br>
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
 
-### Languages Known:
+### Languages Working With:
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
@@ -26,4 +26,3 @@
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
 [Instagram]: https://www.instagram.com/bisht_anuj_/
 [Github]: https://github.com/bishtanuj/
-[Gmail]: "mailto:anujbisht09@gmail.com"
