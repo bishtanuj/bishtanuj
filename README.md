@@ -20,7 +20,7 @@
 <img align="left" alt="Java" width="18px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
 <img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
-
+<br>
 <a href="https://github.com/bishtanuj">
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&theme=default&hide_langs_below=1" />
 </a>
