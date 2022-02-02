@@ -7,6 +7,7 @@
 [<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
+[<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />][Gmail]
 
 <br><br>
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
@@ -23,3 +24,4 @@
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
 [Instagram]: https://www.instagram.com/bisht_anuj_/
 [Github]: https://github.com/bishtanuj/
+[Gmail]: "mailto:anujbisht09@gmail.com"
