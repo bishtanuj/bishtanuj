@@ -1,7 +1,8 @@
 # Hi! 👋 
 
-## This is Anuj Bisht
+**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**
 
+***If you are already here, on my profile then kindly make a glimpse in my repositories in Github.***
 ### Connect With Me:
 [<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
