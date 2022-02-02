@@ -3,7 +3,7 @@
 **I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
-### Connect With Me:
+### Let's Connect:
 [<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
@@ -14,7 +14,7 @@
 <br><br>
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
 
-### Languages Working With:
+### I'm Working With:
 <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
