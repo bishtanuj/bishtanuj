@@ -21,15 +21,6 @@
 <img align="left" alt="html" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg"/>
 <img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 
-<br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj)](https://github.com/anuraghazra/github-readme-stats)
-<a href="https://github.com/bishtanuj/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishtanuj&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/bishtanuj/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bishtanuj&repo=convoychat" />
-</a>
-
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
