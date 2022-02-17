@@ -35,4 +35,4 @@
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
 [Instagram]: https://www.instagram.com/bisht_anuj_/
 [Github]: https://github.com/bishtanuj/
-[Twitter]: https://www.twitter.com/bisht_anuj_/
+[Twitter]: https://twitter.com/bisht_anuj_/
