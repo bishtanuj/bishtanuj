@@ -29,10 +29,9 @@
 
 <br>
 <h1 align="center">Github Stats</h1>
-
-<br><br>
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact)](https://github.com/Souro-23/github-readme-stats)
-
+  <div align="center" >
+  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact"><img src="https://github-readme-streak-stats.herokuapp.com/?user=rohan-kulkarni-25&)">
+  </div>
 
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
