@@ -26,6 +26,9 @@
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
 
+<br>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj)](https://github.com/bishtanuj/github-readme-stats)
+
 
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
