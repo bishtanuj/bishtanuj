@@ -27,7 +27,7 @@
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
 
 <br>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj)](https://github.com/bishtanuj/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact)](https://github.com/Souro-23/github-readme-stats)
 
 
 <!--- Links of Social Sites --->
