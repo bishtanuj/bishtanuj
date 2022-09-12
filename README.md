@@ -23,7 +23,7 @@
 <img align="left" alt="css" width="18px" src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg"/>
 <img align="left" alt="MySQL" width="36px" src="https://upload.wikimedia.org/wikipedia/en/d/dd/MySQL_logo.svg"/>
 <img align="left" alt="R" width="36px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/R_logo.svg/1024px-R_logo.svg.png"/>
-<img align="left" alt="Dart" width="60px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg.png"/>
+<img align="left" alt="Dart" width="70px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg.png"/>
 <br><br>
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange)
