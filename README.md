@@ -4,7 +4,8 @@
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Let's Connect:
-[<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][Github]
+[<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
+[<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
 [<img align="left" alt="anuj | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][Instagram]
 [<img align="left" alt="anuj | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][LinkedIn]
 [<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][Twitter]
@@ -36,5 +37,6 @@
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
 [Instagram]: https://www.instagram.com/bisht_anuj_/
-[Github]: https://github.com/bishtanuj/
+[GitHub]: https://github.com/bishtanuj/
 [Twitter]: https://twitter.com/bisht_anuj_/
+[GitLab]: https://gitlab.com/bishtanuj
