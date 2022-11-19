@@ -35,7 +35,7 @@
   </div>
   
  
-[![@bishtanuj's Holopin board](https://holopin.io/api/user/board?user=bishtanuj)](https://holopin.io/@bishtanuj)
+<!-- [![@bishtanuj's Holopin board](https://holopin.io/api/user/board?user=bishtanuj)](https://holopin.io/@bishtanuj) -->
 
 <!--- Links of Social Sites --->
 [LinkedIn]: https://www.linkedin.com/in/anujbisht/
