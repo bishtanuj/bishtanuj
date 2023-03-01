@@ -31,7 +31,7 @@
 
 <h1 align="center">Github Stats</h1>
   <div align="center" >
-  <img width="50%" height="500px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtanuj&)">
+  <img width="50%" height="10px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact"> <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtanuj&)">
   </div>
   
  
