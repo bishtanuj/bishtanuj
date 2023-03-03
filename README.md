@@ -27,7 +27,9 @@
 <img align="left" alt="Dart" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg.png"/>
 <br><br>
 
-![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange) <br>
+![](https://komarev.com/ghpvc/?username=bishtanuj&color=orange) 
+
+
 
 <h1 align="center">Github Stats</h1>
   <div align="center" >
