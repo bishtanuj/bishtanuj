@@ -16,7 +16,7 @@
 <br>
 
 ### I'm Currently Working With:
-<img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
+<!-- <img align="left" alt="C" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/C_Programming_Language.svg"/>
 <img align="left" alt="C++" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"/>
 <img align="left" alt="Python" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"/>
 <img align="left" alt="Java" width="18px" src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg"/>
@@ -26,6 +26,7 @@
 <img align="left" alt="R" width="36px" src="https://www.r-project.org/logo/Rlogo.png"/>
 <img align="left" alt="Dart" width="80px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fe/Dart_programming_language_logo.svg/1920px-Dart_programming_language_logo.svg.png"/>
 <br><br>
+-->
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
 
