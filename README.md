@@ -28,7 +28,7 @@
 <br><br>
 -->
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
 
