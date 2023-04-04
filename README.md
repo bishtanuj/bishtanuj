@@ -38,7 +38,7 @@
   <div align="center" >
 <!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact">  -->
 <!-- <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bishtanuj> -->
-<img src="https://github-readme-stats.vercel.app/api?username=bishtanuj"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtanuj&">
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=bishtanuj"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtanuj&">
   </div>
   
  
