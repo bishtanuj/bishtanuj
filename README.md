@@ -1,6 +1,6 @@
  # Hi! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 
-**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**
+_**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**_
 
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
 ### Let's Connect:
