@@ -1,4 +1,4 @@
- # Hi! 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
+ # $Hi!$ 👋 <!-- <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif" width="29px"> -->
 
 _**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**_
 
