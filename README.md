@@ -32,6 +32,7 @@ _**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the le
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 ![Pandas](https://img.shields.io/badge/pandas-3670A0?style=for-the-badge&logo=pandas&logoColor=ffdd54)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
 
