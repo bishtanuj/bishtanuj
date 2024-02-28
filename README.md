@@ -35,6 +35,7 @@ _**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the le
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ![](https://komarev.com/ghpvc/?username=bishtanuj&color=ff69b4&style=for-the-badge&label=PROFILE+VIEWS) 
 
