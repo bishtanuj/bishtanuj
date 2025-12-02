@@ -2,7 +2,10 @@
 
 _**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the learning in the real world.**_
 
+<!--
 > ***If you are already here, then kindly make a glimpse on my repositories on Github.***
+-->
+
 ### Let's Connect:
 [<img align="left" alt="anuj | Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />][GitHub]
 [<img align="left" alt="anuj | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gitlab.svg" />][GitLab]
