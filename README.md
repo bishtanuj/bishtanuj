@@ -41,12 +41,12 @@ _**I am Anuj Bisht, a technocrat who always seeks an opportunity to apply the le
 
 
 
-<h1 align="center">Github Stats</h1>
+<!-- <h1 align="center">Github Stats</h1>
   <div align="center" >
 <!--   <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact">  -->
 <!-- <img width="30%" src="https://github-readme-stats.vercel.app/api?username=bishtanuj> -->
 <img width="48%" src="https://github-readme-stats.vercel.app/api?username=bishtanuj&theme=flag-india"><img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=bishtanuj&">
-  </div>
+  </div> -->
   
  
 <!-- [![@bishtanuj's Holopin board](https://holopin.io/api/user/board?user=bishtanuj)](https://holopin.io/@bishtanuj) -->
