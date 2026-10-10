@@ -1,47 +1,144 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-label="Anuj Bisht - AI Engineer, LLMs, RAG and Generative AI">
-  <defs>
-    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
-      <stop offset="0" stop-color="#0b0f1a"/>
-      <stop offset="0.55" stop-color="#101736"/>
-      <stop offset="1" stop-color="#1b1148"/>
-    </linearGradient>
-    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
-      <stop offset="0" stop-color="#38bdf8"/>
-      <stop offset="1" stop-color="#a78bfa"/>
-    </linearGradient>
-    <radialGradient id="glow" cx="0.85" cy="0.1" r="0.7">
-      <stop offset="0" stop-color="#7c3aed" stop-opacity="0.35"/>
-      <stop offset="1" stop-color="#7c3aed" stop-opacity="0"/>
-    </radialGradient>
-    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
-      <path d="M40 0H0V40" fill="none" stroke="#ffffff" stroke-opacity="0.04" stroke-width="1"/>
-    </pattern>
-  </defs>
+<div align="center">
 
-  <rect width="1200" height="320" rx="18" fill="url(#bg)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#grid)"/>
-  <rect width="1200" height="320" rx="18" fill="url(#glow)"/>
-  <rect x="0.5" y="0.5" width="1199" height="319" rx="17.5" fill="none" stroke="#ffffff" stroke-opacity="0.08"/>
+<img src="./assets/banner.svg" alt="Anuj Bisht — AI Engineer" width="100%" />
 
-  <!-- Decorative nodes -->
-  <g stroke="url(#accent)" stroke-opacity="0.35" stroke-width="1.2" fill="none">
-    <path d="M900 70 L990 120 L1080 85 L1140 160 L1060 220 L970 200 L900 70"/>
-    <path d="M990 120 L970 200"/>
-    <path d="M1080 85 L1060 220"/>
-  </g>
-  <g fill="url(#accent)">
-    <circle cx="900" cy="70" r="4"/>
-    <circle cx="990" cy="120" r="5"/>
-    <circle cx="1080" cy="85" r="4"/>
-    <circle cx="1140" cy="160" r="5"/>
-    <circle cx="1060" cy="220" r="4"/>
-    <circle cx="970" cy="200" r="4"/>
-  </g>
+<br/>
 
-  <!-- Text -->
-  <text x="80" y="118" font-family="'JetBrains Mono','SFMono-Regular',Consolas,monospace" font-size="18" fill="#38bdf8" letter-spacing="3">&gt; HELLO, WORLD</text>
-  <text x="80" y="188" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="72" font-weight="700" fill="#f8fafc" letter-spacing="-1">Anuj Bisht</text>
-  <rect x="80" y="208" width="120" height="4" rx="2" fill="url(#accent)"/>
-  <text x="80" y="250" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="24" fill="#cbd5e1">AI Engineer  ·  LLMs  ·  RAG  ·  Generative AI</text>
-  <text x="80" y="284" font-family="'Segoe UI',Helvetica,Arial,sans-serif" font-size="16" fill="#64748b">Building production-grade AI that is scalable, reliable and explainable.</text>
-</svg>
+<a href="https://www.linkedin.com/in/anujbisht/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+&nbsp;
+<a href="https://github.com/bishtanuj"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+&nbsp;
+<a href="https://twitter.com/bisht_anuj_"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X" /></a>
+&nbsp;
+<a href="mailto:anujbisht09@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+
+<br/><br/>
+
+<img src="https://komarev.com/ghpvc/?username=bishtanuj&color=7c3aed&style=flat-square&label=PROFILE+VIEWS" alt="Profile views" />
+
+</div>
+
+<br/>
+
+## 👋 About Me
+
+I'm an **AI Engineer** with 2+ years of experience building production-grade **LLM applications**, **Retrieval-Augmented Generation (RAG)** pipelines and **AI-driven evaluation systems** for enterprise clients.
+
+I integrate large language models with Azure cloud services, speech-to-text and conversational AI avatars to automate complex workflows like interview assessment and resume screening, with a focus on solutions that are **scalable, reliable and explainable**.
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>💼 Currently</b><br/>
+      Associate Software Engineer (AI) at <b>TestingXperts</b><br/><br/>
+      <b>🎓 Education</b><br/>
+      B.Tech, Computer Science &amp; Engineering<br/>
+      First Class with Distinction (80.90%)
+    </td>
+    <td width="50%" valign="top">
+      <b>📍 Based in</b><br/>
+      Delhi, India<br/><br/>
+      <b>🏅 Certified</b><br/>
+      AWS Certified AI Practitioner
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 🧰 Tech Stack
+
+<div align="center">
+
+**AI / ML**<br/>
+<img src="https://img.shields.io/badge/Generative_AI-7c3aed?style=for-the-badge" alt="Generative AI" />
+<img src="https://img.shields.io/badge/RAG-0ea5e9?style=for-the-badge" alt="RAG" />
+<img src="https://img.shields.io/badge/Prompt_Engineering-6366f1?style=for-the-badge" alt="Prompt Engineering" />
+<img src="https://img.shields.io/badge/NLP-14b8a6?style=for-the-badge" alt="NLP" />
+<img src="https://img.shields.io/badge/LLM_Evaluation-f59e0b?style=for-the-badge" alt="LLM Evaluation" />
+<img src="https://img.shields.io/badge/MCP-111827?style=for-the-badge" alt="Model Context Protocol" />
+
+<br/><br/>
+
+**Languages**<br/>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+
+<br/><br/>
+
+**Frameworks &amp; Tools**<br/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Gradio-F97316?style=for-the-badge&logo=gradio&logoColor=white" alt="Gradio" />
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/CrewAI-FF5A50?style=for-the-badge" alt="CrewAI" />
+<img src="https://img.shields.io/badge/Promptfoo-1F2937?style=for-the-badge" alt="Promptfoo" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
+<img src="https://img.shields.io/badge/HeyGen-4F46E5?style=for-the-badge" alt="HeyGen" />
+<img src="https://img.shields.io/badge/REST_APIs-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="REST APIs" />
+
+<br/><br/>
+
+**Cloud &amp; Data**<br/>
+<img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+<img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
+<img src="https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/FAISS-0467DF?style=for-the-badge&logo=meta&logoColor=white" alt="FAISS" />
+<img src="https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge&logo=opensearch&logoColor=white" alt="OpenSearch" />
+
+</div>
+
+<br/>
+
+## 🚀 Featured Projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🎙️ AI Interview Evaluation &amp; RAG System</h3>
+      End-to-end interview evaluation platform combining a <b>HeyGen AI avatar</b>, LLMs, <b>Azure Speech-to-Text</b> and Azure Blob Storage. The avatar adapts dynamically using LLM-generated prompts, transcripts are stored as structured JSON, and a RAG pipeline produces standardized <b>ORBIT-based</b> scores.
+      <br/><br/>
+      <sub><code>LLMs</code> · <code>RAG</code> · <code>Azure STT</code> · <code>HeyGen</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>📄 AI Resume Screening System</h3>
+      Semantic screening pipeline built on <b>iapp/OpenThai-SystemOne</b> that matches resumes to job descriptions. A <b>JD-to-evaluation framework</b> generates structured questions, a SQLite layer persists results, and a fit-classification workflow turns raw resumes into actionable scores.
+      <br/><br/>
+      <sub><code>Semantic Matching</code> · <code>SQLite</code> · <code>Python</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 AI Quiz Application</h3>
+      A <b>Gradio</b> quiz interface powered by an LLM that generates multiple-choice, true/false and subjective questions aligned to AINS guidelines, with automated response collection and result generation.
+      <br/><br/>
+      <sub><code>Gradio</code> · <code>LLMs</code> · <code>Python</code></sub>
+    </td>
+  </tr>
+</table>
+
+<br/>
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=bishtanuj&show_icons=true&theme=tokyonight&hide_border=true&border_radius=12" alt="GitHub stats" />
+&nbsp;
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bishtanuj&layout=compact&theme=tokyonight&hide_border=true&border_radius=12" alt="Top languages" />
+
+</div>
+
+<br/>
+
+## 🤝 Let's Connect
+
+I'm always open to conversations about **LLM applications, RAG systems and AI engineering**.
+The best way to reach me is by [email](mailto:anujbisht09@gmail.com) or on [LinkedIn](https://www.linkedin.com/in/anujbisht/).
+
+<br/>
+
+<div align="center">
+  <sub>Built with care · Updated October 2026</sub>
+</div>
