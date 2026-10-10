@@ -18,33 +18,11 @@
 
 </div>
 
-<br/>
-
 ## 👋 About Me
 
 I'm an **AI Engineer** with 2+ years of experience building production-grade **LLM applications**, **Retrieval-Augmented Generation (RAG)** pipelines and **AI-driven evaluation systems** for enterprise clients.
 
 I integrate large language models with Azure cloud services, speech-to-text and conversational AI avatars to automate complex workflows like interview assessment and resume screening, with a focus on solutions that are **scalable, reliable and explainable**.
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <b>💼 Currently</b><br/>
-      Associate Software Engineer (AI) at <b>TestingXperts</b><br/><br/>
-      <b>🎓 Education</b><br/>
-      B.Tech, Computer Science &amp; Engineering<br/>
-      First Class with Distinction (80.90%)
-    </td>
-    <td width="50%" valign="top">
-      <b>📍 Based in</b><br/>
-      Delhi, India<br/><br/>
-      <b>🏅 Certified</b><br/>
-      AWS Certified AI Practitioner
-    </td>
-  </tr>
-</table>
-
-<br/>
 
 ## 🧰 Tech Stack
 
