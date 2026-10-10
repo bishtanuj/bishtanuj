@@ -93,33 +93,6 @@ I integrate large language models with Azure cloud services, speech-to-text and 
 
 <br/>
 
-## 🚀 Featured Projects
-
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <h3>🎙️ AI Interview Evaluation &amp; RAG System</h3>
-      End-to-end interview evaluation platform combining a <b>HeyGen AI avatar</b>, LLMs, <b>Azure Speech-to-Text</b> and Azure Blob Storage. The avatar adapts dynamically using LLM-generated prompts, transcripts are stored as structured JSON, and a RAG pipeline produces standardized <b>ORBIT-based</b> scores.
-      <br/><br/>
-      <sub><code>LLMs</code> · <code>RAG</code> · <code>Azure STT</code> · <code>HeyGen</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>📄 AI Resume Screening System</h3>
-      Semantic screening pipeline built on <b>iapp/OpenThai-SystemOne</b> that matches resumes to job descriptions. A <b>JD-to-evaluation framework</b> generates structured questions, a SQLite layer persists results, and a fit-classification workflow turns raw resumes into actionable scores.
-      <br/><br/>
-      <sub><code>Semantic Matching</code> · <code>SQLite</code> · <code>Python</code></sub>
-    </td>
-    <td width="33%" valign="top">
-      <h3>🧠 AI Quiz Application</h3>
-      A <b>Gradio</b> quiz interface powered by an LLM that generates multiple-choice, true/false and subjective questions aligned to AINS guidelines, with automated response collection and result generation.
-      <br/><br/>
-      <sub><code>Gradio</code> · <code>LLMs</code> · <code>Python</code></sub>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 📈 GitHub Stats
 
 <div align="center">
